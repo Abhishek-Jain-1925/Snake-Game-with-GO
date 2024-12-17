@@ -8,6 +8,12 @@ This project is a simple implementation of the classic Snake game using Go. It a
 - Snake grows as it eats food.
 - Game ends when the snake hits the wall or itself.
 
+Below is a screenshot of the game in action:
+
+![Screenshot of Snake Game](captures/Screenshot%20from%202024-12-17%2018-49-13.png)
+![Screenshot of Snake Game](captures/Screenshot%20from%202024-12-17%2018-51-21.png)
+![Screenshot of Snake Game](captures/Screenshot%20from%202024-12-17%2018-51-50.png)
+
 ## Project Setup and Execution
 
 Follow these steps to set up and run the Snake game on your local machine.
