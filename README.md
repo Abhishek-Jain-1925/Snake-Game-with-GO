@@ -40,6 +40,30 @@ Before running the Snake game, ensure you have the following installed:
    ```bash
    go install github.com/hajimehoshi/ebiten/v2@latest
    ```
+   ```bash
+   sudo apt-get install libx11-dev
+   ```
+   ```bash
+   sudo apt-get install libxrandr-dev
+   ```
+   ```bash
+   sudo apt-get install libgl1-mesa-dev libglu1-mesa-dev libglx-dev
+   ```
+   ```bash
+   sudo apt-get install libxcursor-dev
+   ```
+   ```bash
+   sudo apt-get install libxinerama-dev
+   ```
+   ```bash
+   sudo apt-get install libxi-dev
+   ```
+   ```bash
+   sudo apt-get install libxxf86vm-dev
+   ```
+   ```bash
+   go mod tidy
+   ```
   
 3. **Run the Game**
    Execute the following command to run the Snake game:
